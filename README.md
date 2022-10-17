@@ -12,3 +12,7 @@ Source: Momennejad et al. 2017, NatHumBeh, Experiment 1
 Paper available here:
 https://www.momen-nejad.org/
 
+## Requirements
+
+Packages are listed in [requirements.txt](requirements.txt).
+
